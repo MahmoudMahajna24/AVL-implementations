@@ -1,1 +1,1 @@
-Implemented in the frame of courses HWs
+Repo includes an AVL tree implementation in both C++ (completely generic) and sml (supports only int values)
